@@ -4,13 +4,17 @@ This Python program is a basic inventory management system for a grocery store, 
 ## Product Management
 
 -Add new products to the inventory, specifying name, price, quantity, aisle, batch ID, and expiration date.
+
 -Update product details, including price, quantity, location (aisle), and expiration date.
+
 -Remove products when sold, stolen, or discarded.
 
 ## Inventory Analysis
 
 -Identify products that are expired, expiring soon, or out of stock.
+
 -Optionally apply a discount to products expiring soon.
+
 -Recommend actions for expired or expiring products, such as donating or putting them on sale.
 
 ## Batch-Level Tracking
@@ -24,6 +28,7 @@ This Python program is a basic inventory management system for a grocery store, 
 ## Date Handling
 
 -Computes tomorrow’s date to determine products that are about to expire.
+
 -Compares product expiration dates to the current date to determine if a product is expired or expiring soon.
 
 ## User Interface
