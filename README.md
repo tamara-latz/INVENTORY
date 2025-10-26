@@ -29,8 +29,13 @@ This Python program is a basic inventory management system for a grocery store, 
 ## User Interface
 
 -Text-based menu for interacting with the system:
+
 -Add a new product
+
 -Remove sold, stolen, or discarded items
+
 -Change product prices
+
 -Run inventory analysis
+
 -Quit the program
