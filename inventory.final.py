@@ -27,7 +27,7 @@ def add_product_type(name, price, quantity, aisle, batch_ID, expiration):
     else:
         inventory[name] = { 
         "price": price,
-        "quantity": quantity,
+        "quantity": 0,
         "location": aisle,
         "items": {}}
         add_item(name, batch_ID, expiration, quantity)
